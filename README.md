@@ -1,4 +1,4 @@
-# angular-pipes
+# Simple pipes for Angular projects
 
 This repo contains some usefull pipe for Angular project.
 
