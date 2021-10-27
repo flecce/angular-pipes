@@ -23,7 +23,7 @@ Filters an items array by specific field.
 Joins an items array by separator.
 
 ```
-{{ items | join: ", " }}
+{{ items | select:'name' | join: ", " }}
 ```
 
 ## Select pipe
