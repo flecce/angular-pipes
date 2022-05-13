@@ -1,6 +1,6 @@
 # Simple pipes for Angular projects
 
-This repo contains some usefull pipe for Angular project.
+This repo contains some useful pipe for Angular project.
 
 ```
 const items: any[] = [
